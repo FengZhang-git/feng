@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-EMNLPFindings-EJSC
 excerpt: 'This paper is about Intent classification (IC) and slot filling (SF) in few-shot scenario.'
 date: 2021-11-07
-venue: 'EMNLP Findings 2021'
+venue: 'EMNLP Findings'
 paperurl: 'https://2021.emnlp.org/papers'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
