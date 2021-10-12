@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Cyber Enigeering, Dalian University of Technology, 2021
+* Ph.D in Natural Language Processing, Peking University, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2020 - January 2021: Research Intern
+  * ByteDance Search-NLP Beijing
+  * Research in hierarchical e-commerce classification via deep learning
+  * Supervisor: Xin Liao and Heng Kang
   
+* 2020-2021: Research Assistant
+  * Dalian University of Technology
+  * Research at intent classification and slot filling in few-shot scenario
+  * Supervisor: Professor Han Liu
+
+
 Skills
 ======
 * Skill 1
