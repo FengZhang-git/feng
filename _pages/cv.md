@@ -15,7 +15,7 @@ Education
 * B.S. in Cyber Enigeering, Dalian University of Technology, 2021
 * Ph.D in Natural Language Processing, Peking University, 2026 (expected)
 
-Work experience
+Research experience
 ======
 
 * September 2021 - Present: Research Assistant
@@ -41,15 +41,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Publications
-======
 
 Service and leadership
 ======
 * Outstanding Undergraduate Graduates Honors, LNED, 2021
 * Next Exceptional X Talent Program, Google, 2020
 * China National Scholarship, 2020
-* ** Google APAC Women Techmakers Scholar, 2019 ** 
+* Google APAC Women Techmakers Scholar, 2019 
 * Nomination Award for the 14th Chinese University Students of the Year (only 40), 2019
 * HIWIN Elite Scholarship, Dalian University of Technology, 2018
 
@@ -63,4 +61,4 @@ Google, December 2020.
 * Exchange Program - Selected for the SAKURA Exchange Program in Science, studied at Yokohama
 National University, December 2018.
 
-![CV](./files/cv_fengzhang.pdf)
+![CV](../files/cv_fengzhang.pdf)
