@@ -9,8 +9,8 @@ paperurl: 'https://arxiv.org/abs/2110.13691'
 citation: 'Han Liu, Feng Zhang, Xiaotong Zhang, Siyang Zhao, Xianchao Zhang. CoRR abs/2110.13691 (2021)'
 ---
 
-[Framework](./framework.pdf)
-<!-- <img src='framework.pdf'> -->
+![Framework](./framework.png)
+
 
 ## Abstract
 
