@@ -61,4 +61,4 @@ Google, December 2020.
 * Exchange Program - Selected for the SAKURA Exchange Program in Science, studied at Yokohama
 National University, December 2018.
 
-![CV](/files/cv_fengzhang.pdf)
+![CV](cv_fengzhang.pdf)
