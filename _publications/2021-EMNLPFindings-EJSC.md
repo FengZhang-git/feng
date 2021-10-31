@@ -17,3 +17,5 @@ Intent classification (IC) and slot filling (SF) are critical building blocks in
 [Download paper here](https://arxiv.org/abs/2110.13691)
 
 [Code for paper](https://github.com/FengZhang-git/EJSC)
+
+![Framework](https://github.com/FengZhang-git/feng/tree/master/_publications/framework.png)
