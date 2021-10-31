@@ -6,7 +6,7 @@ excerpt: 'This paper is about intent classification (IC) and slot filling (SF) i
 date: November 2021
 venue: 'Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP) (long paper)'
 paperurl: 'https://arxiv.org/abs/2110.13691'
-citation: 'Han Liu, Feng Zhang, Xiaotong Zhang, Siyang Zhao, Xianchao Zhang: An Explicit-Joint and Supervised-Contrastive Learning Framework for Few-Shot Intent Classification and Slot Filling. CoRR abs/2110.13691 (2021)'
+citation: 'Han Liu, Feng Zhang, Xiaotong Zhang, Siyang Zhao, Xianchao Zhang. CoRR abs/2110.13691 (2021)'
 ---
 
 ## Abstract
