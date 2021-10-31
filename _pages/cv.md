@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,21 +10,21 @@ redirect_from:
 {% include base_path %}
 
 
-Education
+EDUCATION
 ======
 * B.S. in Cyber Enigeering, Dalian University of Technology, 2021
 * Ph.D in Natural Language Processing, Peking University, 2026 (expected)
 
-Research experience
+RESEARCH EXPERIENCE
 ======
 
-* September 2021 - Present: Research Assistant
+* Sept'21 - Present: Research Assistant
   * Peking University
   * Research in natural language processing
   * Supervisor: Tengjiao Wang
   
 
-* October 2020 - January 2021: Research Intern
+* Oct'20 - Jan'21: Research Intern
   * ByteDance Search-NLP Beijing
   * Research in hierarchical e-commerce classification via deep learning
   * Supervisor: Xin Liao and Heng Kang
@@ -35,14 +35,14 @@ Research experience
   * Supervisor: Professor Han Liu
 
 
-Publications
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
-Service and leadership
+AWARDS & SCHOLARSHIPS
 ======
 * Outstanding Undergraduate Graduates Honors, LNED, 2021
 * Next Exceptional X Talent Program, Google, 2020
@@ -52,7 +52,7 @@ Service and leadership
 * HIWIN Elite Scholarship, Dalian University of Technology, 2018
 
   
-Service and leadership
+EXTRA-CURRICULAR
 ======
 * Student Volunteer – CCF The Beauty of Computing Academic Conference in Ningbo China, June 2021.
 * Programming Competition - Held female programming competition with the financial support of
@@ -61,4 +61,4 @@ Google, December 2020.
 * Exchange Program - Selected for the SAKURA Exchange Program in Science, studied at Yokohama
 National University, December 2018.
 
-![CV](../files/cv_fengzhang.pdf)
+![CV](/files/cv_fengzhang.pdf)
